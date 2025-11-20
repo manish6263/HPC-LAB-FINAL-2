@@ -173,7 +173,7 @@ Outputs saved in `plots/`.
 Full analysis and technical explanation available in:
 
 ```
-report.tex
+report.pdf
 ```
 
 ---
